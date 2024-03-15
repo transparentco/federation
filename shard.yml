@@ -8,6 +8,6 @@ crystal: '>= 1.11.2'
 
 dependencies:
   oxide:
-    github: garymardell/oxide
+    github: transparentco/oxide
 
 license: MIT
